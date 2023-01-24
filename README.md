@@ -27,13 +27,15 @@
 
  Once you open the terminal on the appropriate application folder, access functionality via node index command.
 
+ This is the application ["Look and Feel"](./utils/README_Generator_Demo.avi)
+
  ## License
 
  GNU
 
  ## Contributing
 
- Use a different branch and send a pull request via github.
+  Use a different branch and send a pull request via github.
 
  ## Tests
 
