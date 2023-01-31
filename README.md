@@ -27,7 +27,7 @@
 
  Once you open the terminal on the appropriate application folder, access functionality via node index command.
 
- This is the application ["Look and Feel"](./utils/README_Generator_Demo.avi)
+ This is the application ["Look and Feel"](https://bootcampspot.instructure.com/media_objects_iframe/m-3qaBFz15FBa9d2dQZcRFGN3tkyMQGwti?type=video)
 
  ## License
 

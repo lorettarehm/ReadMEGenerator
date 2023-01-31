@@ -19,7 +19,7 @@ function generateMarkdown(data) {
 \n ${data.installation}
 \n ## Usage
 \n ${data.usage}
-\n This is the application ["Look and Feel"](./utils/README_Generator_Demo.avi)
+\n This is the application ["Look and Feel"](https://bootcampspot.instructure.com/media_objects_iframe/m-3qaBFz15FBa9d2dQZcRFGN3tkyMQGwti?type=video)
 \n ## License
 \n ${data.license}
 \n ## Contributing
